@@ -1,0 +1,3 @@
+- The Excel data file where all the boxes corresponding to 10 iterations are filled with values of the solution (except the probability calculation cells in case of direct acceptance). Please note that you must fill the file via your code in Python (and then download the file (manually) if you are using Google Colab and not any local IDE for Python)
+
+- Your python code file (yourID.ipynb) for solving the problem using Simulated Annealing. All the parameters should be read from your data file from the relevant cells. Also, the random numbers that are given in the data file should be used whenever needed instead of the random package
